@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\A-Study\TestWorkSpace\.metadata\.plugins\org.eclipse.core.resources\.projects\testpy\com.python.pydev.analysis\v2_indexcache
+test.CountApkname|1525852305485221000|D:\A-Study\TestWorkSpace\testpy\test\CountApkname.py
+test.pytest|1524469214637691000|D:\A-Study\TestWorkSpace\testpy\test\pytest.py
+test.__init__|1523256796768147000|D:\A-Study\TestWorkSpace\testpy\test\__init__.py
+test.MongoDBOperation|1525690955257594000|D:\A-Study\TestWorkSpace\testpy\test\MongoDBOperation.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=test.CountApkname
+3=test.pytest
+2=test.MongoDBOperation
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!11@
+apk|2|apk_nodes!11@apk_node!11@
+app|3|appid!19@appname!19@appversion!19@
+con|2|conn!11@conn!19@
+db|2|db!19@db!11@
+fb|1|fb!11@
+fil|1|file!11@
+j|2|j!19@j!11@
+mai|1|main!26@
+my_|2|my_set!11@my_set!19@
+n|1|n!11@
+out|2|outputdir!19@outputdir!11@
+pri|1|print_hello!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

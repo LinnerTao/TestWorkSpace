@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:MongoOld,org.eclipse.launchbar.core.descriptorType.default\:EmployeeTest,org.eclipse.launchbar.core.descriptorType.default\:HelloWorld,org.eclipse.launchbar.core.descriptorType.default\:Puppy,org.eclipse.launchbar.core.descriptorType.default\:Mongodb,org.eclipse.launchbar.core.descriptorType.default\:CLI,org.eclipse.launchbar.core.descriptorType.default\:linner,org.eclipse.launchbar.core.descriptorType.default\:Mongo,org.eclipse.launchbar.core.descriptorType.default\:Read,org.eclipse.launchbar.core.descriptorType.default\:GetInfo
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:CLI/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:CLI/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:EmployeeTest/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:EmployeeTest/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GetInfo/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Mongodb/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Read/activeLaunchMode=debug
